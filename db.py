@@ -1,0 +1,4 @@
+users = {}
+stores = {}
+items = {}
+tags = {}

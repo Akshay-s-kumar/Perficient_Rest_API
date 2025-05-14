@@ -1,0 +1,25 @@
+# Environment and Python files
+.flaskenv
+rest_api_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Cache files
+*.cache
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
