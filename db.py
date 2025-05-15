@@ -1,4 +1,3 @@
 users = {}
 stores = {}
 items = {}
-tags = {}
